@@ -66,7 +66,7 @@ class SimulationApp:
 app_instance = SimulationApp()
 
 app = pn.template.BootstrapTemplate(
-    title="Template Simulation App",
+    title="Template Simulation App 😁",
     main=[app_instance.layout],
 )
 
