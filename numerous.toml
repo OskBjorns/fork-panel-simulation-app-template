@@ -1,5 +1,5 @@
-name = "Osk Template Simulation App"
-description = "This is a template for a simulation app. You can run a simulation in a separate process while following the progress."
+name = "Ósk Template Simulation App"
+description = "This is a Ósk's template for a simulation app. You can run a simulation in a separate process while following the progress."
 library = "streamlit"
 python = "3.12"
 app_file = "app.py"
